@@ -32,17 +32,17 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Googlesheets-3776AB?style=for-the-badge&logo=python&logoColor=green)
+![Google Sheets](https://img.shields.io/badge/Googlesheets-2776AB?style=for-the-badge&logo=google&logoColor=green)
 
 
 #### 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![MLP](https://img.shields.io/badge/MLP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-FF6F08?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6F10?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF6F08?style=for-the-badge&logo=python&logoColor=Green)
+![MLP](https://img.shields.io/badge/MLP-SF6F00?style=for-the-badge&logo=python&logoColor=white)
+![SVM](https://img.shields.io/badge/SVM-DF6F08?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-IF6F10?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-EF6F08?style=for-the-badge&logo=python&logoColor=Green)
 
 
 

@@ -32,20 +32,28 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Googlesheets-3776AB?style=for-the-badge&logo=python&logoColor=blue)
+![Google Sheets](https://img.shields.io/badge/Googlesheets-3776AB?style=for-the-badge&logo=python&logoColor=green)
 
 
-#### 🤖 Machine Learning
+#### 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![MLP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![SVM](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 
 #### 🧰 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Streanlit](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
 ### 🚀 Featured Projects

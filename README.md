@@ -32,7 +32,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Googlesheets-2776AB?style=for-the-badge&logo=google&logoColor=green)
+![Google Sheets](https://img.shields.io/badge/Googlesheets-8776AB?style=for-the-badge&logo=google&logoColor=green)
 
 
 #### 🤖 Machine Learning & AI
@@ -40,9 +40,9 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![MLP](https://img.shields.io/badge/MLP-SF6F00?style=for-the-badge&logo=python&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-DF6F08?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-IF6F10?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-EF6F08?style=for-the-badge&logo=python&logoColor=Green)
+![SVM](https://img.shields.io/badge/SVM-D96F08?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-DF6F10?style=for-the-badge&logo=LLM&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-E96F08?style=for-the-badge&logo=NLP&logoColor=Green)
 
 
 
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streanlit](https://img.shields.io/badge/streamlit-007ACC?style=for-the-badge&logo=streamlit&logoColor=red)
+![Streanlit](https://img.shields.io/badge/streamlit-097ACC?style=for-the-badge&logo=streamlit&logoColor=red)
 ---
 
 ### 🚀 Featured Projects
